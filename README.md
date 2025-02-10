@@ -114,7 +114,7 @@ MAPE: 0.03321364355690878
 
 Grafik hasil prediksi menunjukkan perbandingan antara nilai aktual dan nilai prediksi, menggambarkan bagaimana model menangkap tren harga saham.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e4c7d1b-6fe3-4e6a-8e2d-729b15a664ec" width="600" style="margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/0e4c7d1b-6fe3-4e6a-8e2d-729b15a664ec" width="800" style="margin-bottom: 20px;">
 </p>
 
 ---
